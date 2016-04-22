@@ -1,7 +1,7 @@
 # Website of Armchair Conservationist
 
 This is the source repository for the website of
-[the Armchair Conservationist][home].
+the [Armchair Conservationist].
 
 ## Contributing contents.
 
@@ -30,14 +30,14 @@ $ rvm gemset create `cat .ruby-gemset`
 
 ```
 $ gem install bundler
-$ bundle insta
+$ bundle install
 ```
 
 Now you are ready to go.
 
 ## Copyright, Licenses and all that.
 
-(C) 2016, The Armchair Conservationist.
+(C) 2016, The [Armchair Conservationist].
 
 
 1. Every information here is released under
@@ -47,7 +47,7 @@ Now you are ready to go.
 
 3. Any contribution to this repository should be through a github pull
    request. Any such pull request is treated as a transfer of copy
-   right to us, i.e. [the Armchair Conservationist][home]
+   right to us, i.e. the [Armchair Conservationist]
 
 4. In return, we pledge that the material will continue to be released
    under the same terms and conditions.
@@ -66,6 +66,8 @@ fact is that we live in a less than perfect world. So to avoid crazy
 litigation, we have copyrighted every material here.
 
 [home]: <https://armchair-conservationist.github.io/> "Armchair conservationst"
+
+[armchair conservationist]: <https://armchair-conservationist.github.io/>
 
 [public domain]: <https://en.wikipedia.org/wiki/Public_domain>
 

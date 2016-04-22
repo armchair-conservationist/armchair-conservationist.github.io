@@ -33,7 +33,15 @@ $ gem install bundler
 $ bundle install
 ```
 
-Now you are ready to go.
+4. You can view this file locally as follows.
+
+```
+$ bundle exec jekyll server # starts a preview server on port 4000.
+$ firefox http://127.0.0.1:4000/
+
+```
+
+Now you have everything need. Happy hacking.
 
 ## Copyright, Licenses and all that.
 
